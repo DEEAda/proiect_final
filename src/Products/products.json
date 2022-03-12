@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Un cadou special",
+        "description": "Descriere carte",
+        "price": 25,
+        "images": [
+            "https://s13emagst.akamaized.net/products/9405/9404308/images/res_3831758b959164f0f89baaa194054ed5.jpg"
+        ],
+        "stock": 10,
+        "categories": ["nou-nascuti","familie"]
+    },
+
+    {
+        "id": 2,
+        "title": "Salveaza-l pe Mos Craciun",
+        "description": "Descriere carte",
+        "price": 25,
+        "images": [
+            "https://s.cdnmpro.com/129521038/p/m/5/salveaza-l-pe-mos-craciun~8399975.jpg"
+        ],
+        "stock": 7,
+        "categories": ["copii intre 3-9 ani "]
+    }
+
+
+]
