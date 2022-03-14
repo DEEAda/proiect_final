@@ -1,27 +1,146 @@
 [
     {
         "id": 1,
-        "title": "Un cadou special",
-        "description": "Descriere carte",
-        "price": 25,
+        "title": "Trandafir",
+        "description": "Trandafir Rosu",
+        "price": 8,
         "images": [
-            "https://s13emagst.akamaized.net/products/9405/9404308/images/res_3831758b959164f0f89baaa194054ed5.jpg"
+            "https://decortrendy.ro/image/cache/catalog/import/43386-02-800x800.jpg "
         ],
-        "stock": 10,
-        "categories": ["nou-nascuti","familie"]
+        "stock": 35,
+        "categories": ["flori"]
     },
 
     {
         "id": 2,
-        "title": "Salveaza-l pe Mos Craciun",
-        "description": "Descriere carte",
-        "price": 25,
+        "title": "Trandafir",
+        "description": "Trandafir Alb",
+        "price": 8,
         "images": [
-            "https://s.cdnmpro.com/129521038/p/m/5/salveaza-l-pe-mos-craciun~8399975.jpg"
-        ],
-        "stock": 7,
-        "categories": ["copii intre 3-9 ani "]
-    }
+            "https://decortrendy.ro/image/cache/catalog/import/43386-05-666x666.jpg"],
+        "stock": 40,
+        "categories": ["flori"]
+    },
 
+    {
+        "id": 3,
+        "title": "Trandafir",
+        "description": "Trandafir Portocaliu",
+        "price": 8,
+        "images": [
+            "https://decortrendy.ro/image/cache/catalog/import/efa35084b7a5fc82d5bf247f6cb2cf4e-666x666.jpg"],
+        "stock": 28,
+        "categories": ["flori "]
+    },
+
+    {
+        "id": 4,
+        "title": "Trandafir",
+        "description": "Trandafir Roz",
+        "price": 8,
+        "images": [
+            "https://decortrendy.ro/image/cache/catalog/import/2a7d8f6937cfca79c9e41d73dd9b4644-666x666.jpg"],
+        "stock": 31,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 5,
+        "title": "Lalea",
+        "description": "Lalea Rosie",
+        "price": 5,
+        "images": [
+            "https://www.robertorossi.ro/images/produse/_large/lalea-48-cm-rosu-87328-1.jpg"],
+        "stock": 33,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 6,
+        "title": "Lalea",
+        "description": "Lalea Galbena",
+        "price": 5,
+        "images": 
+        [
+            "https://www.robertorossi.ro/images/produse/_large/lalea-d8xh48-cm-galben-87330-2.jpg"
+        ],
+        "stock": 23,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 7,
+        "title": "Floarea-Soarelui",
+        "description": "Floarea-Soarelui",
+        "price": 15,
+        "images": 
+        [
+            "https://decortrendy.ro/image/cache/catalog/import/3a29514e29d95cb2a80c4930e0f35da1-800x800.jpg"
+        ],
+        "stock": 40,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 8,
+        "title": "Gerbera",
+        "description": "Gerbera Roz",
+        "price": 7,
+        "images": 
+        [
+            "https://static9.depositphotos.com/1012271/1075/i/950/depositphotos_10754311-stock-photo-pink-gerbera-daisy-flower.jpg" 
+        ],
+        "stock": 22,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 9,
+        "title": "Gerbera",
+        "description": "Gerbera Portocalie",
+        "price": 7,
+        "images": 
+        [
+            "https://st.depositphotos.com/1012271/1413/i/950/depositphotos_14137304-stock-photo-orange-gerbera-daisy-flower.jpg"
+        ],
+        "stock": 29,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 10,
+        "title": "Gerbera",
+        "description": "Gerbera Galbena",
+        "price": 7,
+        "images": 
+        [
+            "https://st.depositphotos.com/1012271/2040/i/950/depositphotos_20401123-stock-photo-yellow-gerbera-daisy-flower.jpg"],
+        "stock": 33,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 11,
+        "title": "Gerbera",
+        "description": "Gerbera Rosie",
+        "price": 7,
+        "images": 
+        [
+            "https://st4.depositphotos.com/6084264/24726/i/450/depositphotos_247264788-stock-photo-red-gerbera-flower-isolated-white.jpg"
+            ], "stock": 23,
+        "categories": ["flori"]
+    },
+
+    {
+        "id": 12,
+        "title": "Gerbera",
+        "description": "Gerbera Violet",
+        "price": 7,
+        "images": 
+        [
+            "https://static5.depositphotos.com/1000152/523/i/450/depositphotos_5231847-stock-photo-pink-gerbera.jpg"
+            ], "stock": 23,
+        "categories": ["flori"]
+    }
 
 ]
