@@ -1,146 +1,256 @@
 [
     {
         "id": 1,
-        "title": "Trandafir",
-        "description": "Trandafir Rosu",
-        "price": 8,
+        "title": "Atomic Habits",
+        "author": "JAMES CLEAR",
+        "description": "Atomic Habits. O cale usoara si eficienta de a-ti forma obiceiuri bune si a scapa de cele proaste - James Clear",
+        "price": 35,
         "images": [
-            "https://decortrendy.ro/image/cache/catalog/import/43386-02-800x800.jpg "
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/63/2010963/atomic-habits-o-cale-usoara-si-eficienta-de-a-ti-forma-obiceiuri-bune-si-a-scapa-de-cele-proaste_1_fullsize.jpg"
         ],
-        "stock": 35,
-        "categories": ["flori"]
+        "stock": 12,
+        "categories": [
+            "dezvoltare personala"
+        ]
     },
-
     {
         "id": 2,
-        "title": "Trandafir",
-        "description": "Trandafir Alb",
-        "price": 8,
+        "title": "Unfu*k yourself",
+        "author": "GARY JOHN BISHOP",
+        "description": "Unfu*k Yourself. Elibereaza-ti mintea si traieste-ti viata - Gary John Bishop",
+        "price": 30,
         "images": [
-            "https://decortrendy.ro/image/cache/catalog/import/43386-05-666x666.jpg"],
-        "stock": 40,
-        "categories": ["flori"]
-    },
-
-    {
-        "id": 3,
-        "title": "Trandafir",
-        "description": "Trandafir Portocaliu",
-        "price": 8,
-        "images": [
-            "https://decortrendy.ro/image/cache/catalog/import/efa35084b7a5fc82d5bf247f6cb2cf4e-666x666.jpg"],
-        "stock": 28,
-        "categories": ["flori "]
-    },
-
-    {
-        "id": 4,
-        "title": "Trandafir",
-        "description": "Trandafir Roz",
-        "price": 8,
-        "images": [
-            "https://decortrendy.ro/image/cache/catalog/import/2a7d8f6937cfca79c9e41d73dd9b4644-666x666.jpg"],
-        "stock": 31,
-        "categories": ["flori"]
-    },
-
-    {
-        "id": 5,
-        "title": "Lalea",
-        "description": "Lalea Rosie",
-        "price": 5,
-        "images": [
-            "https://www.robertorossi.ro/images/produse/_large/lalea-48-cm-rosu-87328-1.jpg"],
-        "stock": 33,
-        "categories": ["flori"]
-    },
-
-    {
-        "id": 6,
-        "title": "Lalea",
-        "description": "Lalea Galbena",
-        "price": 5,
-        "images": 
-        [
-            "https://www.robertorossi.ro/images/produse/_large/lalea-d8xh48-cm-galben-87330-2.jpg"
-        ],
-        "stock": 23,
-        "categories": ["flori"]
-    },
-
-    {
-        "id": 7,
-        "title": "Floarea-Soarelui",
-        "description": "Floarea-Soarelui",
-        "price": 15,
-        "images": 
-        [
-            "https://decortrendy.ro/image/cache/catalog/import/3a29514e29d95cb2a80c4930e0f35da1-800x800.jpg"
-        ],
-        "stock": 40,
-        "categories": ["flori"]
-    },
-
-    {
-        "id": 8,
-        "title": "Gerbera",
-        "description": "Gerbera Roz",
-        "price": 7,
-        "images": 
-        [
-            "https://static9.depositphotos.com/1012271/1075/i/950/depositphotos_10754311-stock-photo-pink-gerbera-daisy-flower.jpg" 
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/carte-ro/e2f5e246/ce24/4ee8/8f53/2bb20b1b60da/e2f5e246-ce24-4ee8-8f53-2bb20b1b60da_1.JPG"
         ],
         "stock": 22,
-        "categories": ["flori"]
+        "categories": [
+            "dezvoltare personala"
+        ]
     },
-
+    {
+        "id": 3,
+        "title": "Inteligenta Emotionala",
+        "author": "DANIEL GOLEMAN",
+        "description": "Constientizarea mai adanca a emotiilor - Daniel Goleman",
+        "price": 43,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/46dfb5a6/e761/4de6/8857/657586bd75c5/46dfb5a6-e761-4de6-8857-657586bd75c5_1.jpg?6"
+        ],
+        "stock": 17,
+        "categories": [
+            "dezvoltare personala"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Secretele Succesului",
+        "author": "DALE CARNEGIE",
+        "description": "Secretele succesului. Cum sa va faceti prieteni si sa deveniti influent - Dale Carnegie",
+        "price": 37,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/00/1349100/secretele-succesului-ed-a-iii-a-retiparita_1_fullsize.jpg"
+        ],
+        "stock": 22,
+        "categories": [
+            "dezvoltare personala"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Arta subtila a nepasarii",
+        "author": "MARK MANSON",
+        "description": "Arta subtila a nepasarii. O metoda nonconformista pentru o viata mai buna - Mark Manson",
+        "price": 27,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/carte-ro/dd62be14/4ab8/4d6d/bcc5/20e884e262ab/dd62be14-4ab8-4d6d-bcc5-20e884e262ab_1.jpg"
+        ],
+        "stock": 13,
+        "categories": [
+            "dezvoltare personala"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Cele 7 deprinderi ale persoanelor eficace",
+        "author": "STEPHEN R. COVEY",
+        "description": "Cele 7 deprinderi ale persoanelor eficace - Stephen R. Covey",
+        "price": 68,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/25/360125/cele-7-deprinderi-ale-persoanelor-eficace_1_fullsize.jpg"
+        ],
+        "stock": 25,
+        "categories": [
+            "dezvoltare personala"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Jurnalul unui pusti",
+        "author": " JEFF KINNEY",
+        "description": "Jurnalul unui pusti 16. Meciul sezonului - Jeff Kinney",
+        "price": 36,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/4d3cfefc/f0a6/44c9/9d9a/a04d640b5350/4d3cfefc-f0a6-44c9-9d9a-a04d640b5350_1.PNG"
+        ],
+        "stock": 20,
+        "categories": [
+            "carti pentru copii"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Jurnalul unui pusti",
+        "author": " JEFF KINNEY",
+        "description": "Jurnalul unui pusti 8. Ghinion cu carul - Jeff Kinney",
+        "price": 29,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/0338297d/0317/4425/ba6f/91e4bcdf8347/0338297d-0317-4425-ba6f-91e4bcdf8347_1.jpg"
+        ],
+        "stock": 34,
+        "categories": [
+            "carti pentru copii"
+        ]
+    },
     {
         "id": 9,
-        "title": "Gerbera",
-        "description": "Gerbera Portocalie",
-        "price": 7,
-        "images": 
-        [
-            "https://st.depositphotos.com/1012271/1413/i/950/depositphotos_14137304-stock-photo-orange-gerbera-daisy-flower.jpg"
+        "title": "Jurnalul unui pusti",
+        "author": " JEFF KINNEY",
+        "description": "Jurnalul unui pusti 10. Ca pe vremuri - Jeff Kinney",
+        "price": 29,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/b6792420/8243/4356/a66c/d43eec0eff8b/b6792420-8243-4356-a66c-d43eec0eff8b_1.jpg"
         ],
-        "stock": 29,
-        "categories": ["flori"]
+        "stock": 17,
+        "categories": [
+            "carti pentru copii"
+        ]
     },
-
     {
         "id": 10,
-        "title": "Gerbera",
-        "description": "Gerbera Galbena",
-        "price": 7,
-        "images": 
-        [
-            "https://st.depositphotos.com/1012271/2040/i/950/depositphotos_20401123-stock-photo-yellow-gerbera-daisy-flower.jpg"],
-        "stock": 33,
-        "categories": ["flori"]
+        "title": "Jurnalul unui pusti",
+        "author": " JEFF KINNEY",
+        "description": "Jurnalul unui pusti 9. La drum lung - Jeff Kinney",
+        "price": 34,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/38b8be38/8b26/4bba/91bb/bbc2eb8eb958/38b8be38-8b26-4bba-91bb-bbc2eb8eb958_1.jpg"
+        ],
+        "stock": 29,
+        "categories": [
+            "carti pentru copii"
+        ]
     },
-
     {
         "id": 11,
-        "title": "Gerbera",
-        "description": "Gerbera Rosie",
-        "price": 7,
-        "images": 
-        [
-            "https://st4.depositphotos.com/6084264/24726/i/450/depositphotos_247264788-stock-photo-red-gerbera-flower-isolated-white.jpg"
-            ], "stock": 23,
-        "categories": ["flori"]
+        "title": "Jurnalul unui pusti",
+        "author": " JEFF KINNEY",
+        "description": "Jurnalul unui pusti 7. A cincea roata la caruta - Jeff Kinney",
+        "price": 26,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/96da1f89/4954/4764/8dad/38c88c5b19ee/96da1f89-4954-4764-8dad-38c88c5b19ee_1.jpg"
+        ],
+        "stock": 8,
+        "categories": [
+            "carti pentru copii"
+        ]
     },
 
     {
         "id": 12,
-        "title": "Gerbera",
-        "description": "Gerbera Violet",
-        "price": 7,
-        "images": 
-        [
-            "https://static5.depositphotos.com/1000152/523/i/450/depositphotos_5231847-stock-photo-pink-gerbera.jpg"
-            ], "stock": 23,
-        "categories": ["flori"]
-    }
+        "title": "Jurnalul unui pusti",
+        "author": " JEFF KINNEY",
+        "description": "Jurnalul unui pusti 13. Dezghetul - Jeff Kinney",
+        "price": 30,
+        "images": [
+          "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/41386283/c2fa/4cfd/85c7/42860f05a176/41386283-c2fa-4cfd-85c7-42860f05a176_1.jpg"
+        ],
+        "stock": 23,
+        "categories": [
+            "carti pentru copii"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Gateste in 30 de minute cu Jamie",
+        "author": " JAMIE OLIVER",
+        "description": "O metoda revolutionara de a gati rapid mancarea buna - Jamie Oliver",
+        "price": 90,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/62/202462/gateste-in-30-de-minute-cu-jamie_1_fullsize.jpg"
+        ],
+        "stock": 15,
+        "categories": [
+            "carti pentru gatit"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Gateste in 15 de minute cu Jamie",
+        "author": " JAMIE OLIVER",
+        "description": "Mancare delicioasa, hranitoare si foarte rapida - Jamie Oliver",
+        "price": 90,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/96/216196/gateste-in-15-minute-cu-jamie_1_fullsize.jpg"
+        ],
+        "stock": 11,
+        "categories": [
+            "carti pentru gatit"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Economiseste cu Jamie",
+        "author": " JAMIE OLIVER",
+        "description": "Cumpara istet. Gateste inteligent. Iroseste mai putin. 120 de retete gustoase si ieftine - Jamie Oliver",
+        "price": 100,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/50/236050/economiseste-cu-jamie_1_fullsize.jpg"
+        ],
+        "stock": 20,
+        "categories": [
+            "carti pentru gatit"
+        ]
+    },
 
+    {
+        "id": 16,
+        "title": "Jamie gateste in Italia",
+        "author": " JAMIE OLIVER",
+        "description": "Din inima bucatariei italienesti - Jamie Oliver",
+        "price": 110,
+        "images": [
+          "https://mcdn.elefant.ro/mnresize/1500/1500/images/33/1686933/jamie-gateste-in-italia_1_fullsize.jpg"
+        ],
+        "stock": 30,
+        "categories": [
+            "carti pentru gatit"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Salate",
+        "author": "GEORGEANNE BRENNAN",
+        "description": "O reteta pentru fiecare zi din an. Vol. 2 - Georgeanne Brennan",
+        "price": 22,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/23/325523/salate-o-reteta-pentru-fiecare-zi-din-an-vol-2_1_fullsize.jpg"
+        ],
+        "stock": 6,
+        "categories": [
+            "carti pentru gatit"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "300 retete delicioase de post",
+        "author": "MIHAELA ENACHE",
+        "description": "300 retete delicioase de post - Mihaela Enache",
+        "price": 10,
+        "images": [
+            "https://mcdn.elefant.ro/mnresize/1500/1500/images/89/237689/300-retete-delicioase-de-post_1_fullsize.jpg"
+        ],
+        "stock": 2,
+        "categories": [
+            "carti pentru gatit"
+        ]
+    }
 ]
