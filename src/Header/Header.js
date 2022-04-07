@@ -28,14 +28,8 @@ function Header() {
                         <Link className={"nav-link" + (pathname === '/products' ? ' active' : '')} to="/products">
                             Products
                         </Link>
-                        <Link className={"nav-link" + (pathname === '/categories' ? ' active' : '')} to="/categories">
-                            Categories
-                        </Link>
                         <Link className={"nav-link" + (pathname === '/cart' ? ' active' : '')} to="/cart">
                             Cart
-                        </Link>
-                        <Link className={"nav-link" + (pathname === '/faq' ? ' active' : '')} to="/faq">
-                            FaQ
                         </Link>
                         <Link className={"nav-link" + (pathname === '/contact' ? ' active' : '')} to="/contact">
                             Contact

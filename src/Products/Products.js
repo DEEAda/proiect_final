@@ -14,7 +14,14 @@ function Products() {
                    src={product.images[0]}
                    className="card-img-top" 
                    width="200px"
-                   alt="product" />
+                   alt="product"
+                   style={{
+                  
+                    objectFit: "cover",
+                    objectPosition: "top",
+                    borderTopLeftRadius: "20px",
+                    borderTopRightRadius: "20px",
+                   }} />
                    <div className="card-body">
                        <h5 className="card-title">{product.title}</h5>
                        <p className="card-text">{product.description}</p>

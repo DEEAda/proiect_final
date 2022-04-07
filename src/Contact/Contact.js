@@ -8,9 +8,9 @@ function Contact() {
             <h1>Contact</h1>
 
             <img src={image}
-                height={100} 
-                style={{ marginBottom: "30px" }}
-                />
+                height={100}
+                style={{ marginBottom: "50px", marginTop: "50px" }}
+            />
             <div>
                 <button
                     type="button"
@@ -21,9 +21,7 @@ function Contact() {
                     aria-controls="collapseExample"
                 >
                     Contact info
-
                 </button>
-
                 <div className="collapse"
                     id="collapseExample">
                     <div className="card card-body">

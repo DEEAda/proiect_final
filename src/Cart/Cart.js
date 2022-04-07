@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import products from '../Products/products.json';
+import { Link } from "react-router-dom";
 
 function Cart() {
     const [cart, setCart] = useState([]);
@@ -101,6 +102,16 @@ function Cart() {
             ))}
 
             {cart.length > 0 ? <h3 className="fs-1 fw-bold">Total: {getTotalPrice()} Lei</h3> : <p> No products in cart. </p>}
+
+
+            <div className="col-2 btn btn-light ">
+                <Link className="checkout" to="/checkout" style={{
+                    textDecoration: "none"
+                }}>
+                    Check Out
+                </Link>
+            </div>
+
 
         </div>
     );

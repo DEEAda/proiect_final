@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://foodtank.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash.jpg);
+    background-image:  url(https://foodtank.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash.jpg);
 }
 
 h1{
@@ -8,4 +8,5 @@ h1{
     font-style: oblique;
     text-align: center;
     font-size: 50px;
+    text-shadow: 3px 3px 5px black;
 }
